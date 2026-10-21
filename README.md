@@ -105,7 +105,7 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 </details>
 
 ## [Hail](https://hail.so)
-Python SDK for adding voice calls, SMS, and email to apps and AI agents. Available as `hail-sdk` on PyPI, with managed cloud and self-hosted AGPLv3 deployments.
+Find and order phone numbers, submit registration documents, and add calls, SMS, and email through one Python SDK. Available as `hail-sdk` on PyPI. Hail Cloud manages carrier connections; self-hosting is also available under AGPLv3.
 
 <details>
 
